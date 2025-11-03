@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daschain-foundation/.github/main/assets/das_Logo.png" width="180" alt="DAS Foundation Logo" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/daschain-foundation/.github/main/assets/DAS_Banner.png" alt="DAS Chain Banner" />
 </p>
 
