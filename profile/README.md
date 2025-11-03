@@ -1,47 +1,53 @@
-# 🟣 DAS Foundation  
-### Empowering People to Own Their Lives
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daschain-foundation/.github/main/assets/das_Logo.png" width="180" alt="DAS Foundation Logo" />
+</p>
 
-The **DAS Foundation** stewards the **DAS Ecosystem** — a network of blockchain, education, and community platforms that help people achieve time, health, and financial freedom.
-
-We build **DAS Chain**, a sovereign blockchain (Cosmos SDK + CometBFT, IBC-ready) and the native token **DST** (base denom **udst**) to power transparent rewards, marketplaces, and governance.
-
----
-
-## 🌍 Ecosystem
-| Component | What it is | URL |
-|---|---|---|
-| **DAS Chain** | Layer-1 blockchain for incentives & ownership | https://daschain.org |
-| **DAS Foundation** | Non-profit governance & transparency | https://das-foundation.org |
-| **Duckboards & Stilts** | Community, marketplace, affiliate hub | https://duckboardsandstilts.com |
-| **DAS Ecosystem (Marketing)** | Funnels, education, onboarding | https://dasecosystem.com |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daschain-foundation/.github/main/assets/DAS_Banner.png" alt="DAS Chain Banner" />
+</p>
 
 ---
 
-## 🧱 Core Repositories
-- [`das-chain`](https://github.com/das-foundation/das-chain) – Cosmos SDK chain (DST/udst).
-- [`das-docs`](https://github.com/das-foundation/das-docs) – Docs, validator + API guides.
-- [`das-dapp`](https://github.com/das-foundation/das-dapp) – Web app for staking & governance.
+## 🌐 DAS Foundation
+### *A Decentralized Ecosystem for Human Empowerment*
 
-> Brand assets (logos/banners) live in this org’s profile repo:  
-> `.github/assets/` → `DAS_Logo.png`, `DAS_Banner.png`, etc.
+The **DAS Foundation** is building a people-powered ecosystem that merges **self-development, education, and decentralized finance** — empowering individuals to own their time, health, and financial freedom.
 
----
-
-## 🛠️ Tech Snapshot
-- Cosmos SDK + CometBFT • IBC-enabled
-- Token: **DST** (1 DST = 1,000,000 **udst**)
-- Governance: on-chain (`x/gov`)
-- Roadmap: testnet → mainnet → EVM compatibility
+At the heart of this vision is the **DAS Chain**, a sovereign Layer-1 blockchain built with the **Cosmos SDK**, designed to connect learning, earning, and community through Web3 technology.
 
 ---
 
-## 🤝 Get Involved
-- Website: https://das-foundation.org  
-- Chain site: https://daschain.org  
-- Whitepaper: https://daschain.org/whitepaper  
-- Community: https://duckboardsandstilts.com
+### 🪙 The DAS Token (DST)
+- **Symbol:** DST  
+- **Base Denom:** udst (1 DST = 1,000,000 udst)  
+- **Roles:** Gas, staking, governance, and ecosystem incentives  
+- **Monetary Policy:** Inflation adjustable via DAO governance (initially 0%)  
 
 ---
 
-© 2025 **DAS Foundation** · *Empowering People to Own Their Lives*
+### 🧩 The Ecosystem
+- **[duckboardsandstilts.com](https://duckboardsandstilts.com):** The main community, marketplace, and affiliate hub.  
+- **[dasecosystem.com](https://dasecosystem.com):** The marketing and education platform for personal growth.  
+- **[daschain.org](https://daschain.org):** The blockchain’s technical documentation and explorer.  
+- **[das-foundation.org](https://das-foundation.org):** The governance and transparency portal for the Foundation.
 
+---
+
+### 🛠️ Technology Stack
+- Cosmos SDK + CometBFT consensus  
+- IBC interchain interoperability  
+- Future EVM compatibility for smart contracts  
+- Validator-based Proof-of-Stake security  
+
+---
+
+### 🤝 Connect
+- GitHub: [@daschain-foundation](https://github.com/daschain-foundation)  
+- Website: [das-foundation.org](https://das-foundation.org)  
+- Contact: `info@das-foundation.org`
+
+---
+
+<p align="center">
+  © 2025 DAS Foundation · Empowering People to Own Their Lives
+</p>
