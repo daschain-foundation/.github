@@ -34,8 +34,8 @@ Our mission is to **empower individuals and communities** to achieve holistic fr
 | Project | Domain | Description |
 |----------|---------|-------------|
 | **DAS Chain** | [daschain.org](https://daschain.org) | Layer-1 blockchain built on Cosmos SDK, powering the DAS Economy. |
-| **DAS Ecosystem** | [dasecosystem.com](https://dasecosystem.com) | Educational and community platform with affiliate and marketplace integration. |
-| **Duckboards & Stilts** | [duckboardsandstilts.com](https://duckboardsandstilts.com) | Main hub for courses, marketplace, and social interaction. |
+| **Duckboards & Stilts** | [duckboardsandstilts.com](https://duckboardsandstilts.com) | Main community hub combining social interaction, education, and the multi-vendor marketplace. |
+| **DAS Ecosystem** | [dasecosystem.com](https://dasecosystem.com) | Marketing and outreach platform — funnels, webinars, and opt-in campaigns introducing new users to the DAS community. |
 
 ---
 
@@ -87,3 +87,4 @@ We welcome partnerships with:
 ---
 
 <p align="center">© 2025 DAS Foundation · Empowering People to Own Their Lives</p>
+
