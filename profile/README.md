@@ -15,7 +15,7 @@ At the heart of this vision is the **DAS Chain**, a sovereign Layer-1 blockchain
 
 ### 🪙 The DAS Token (DST)
 - **Symbol:** DST  
-- **Base Denom:** udst (1 DST = 1,000,000 udst)  
+- **Base Denom:** mdst (1 DST = 1,000,000 mdst)  
 - **Roles:** Gas, staking, governance, and ecosystem incentives  
 - **Monetary Policy:** Inflation adjustable via DAO governance (initially 0%)  
 
