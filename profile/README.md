@@ -40,7 +40,7 @@ At the heart of this vision is the **DAS Chain**, a sovereign Layer-1 blockchain
 ### 🤝 Connect
 - GitHub: [@daschain-foundation](https://github.com/daschain-foundation)  
 - Website: [das-foundation.org](https://das-foundation.org)  
-- Contact: `info@das-foundation.org`
+- Contact: `support@das-foundation.org`
 
 ---
 
