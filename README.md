@@ -80,7 +80,7 @@ We welcome partnerships with:
 
 | Resource | Description |
 |-----------|-------------|
-| [DAS Chain Whitepaper v1.0 (PDF)](https://github.com/daschain-foundation/das-chain/raw/main/docs/DAS_Chain_Whitepaper_v1.0.pdf) | Foundational paper outlining technology, tokenomics, and governance. |
+| [DAS Chain Whitepaper v1.1 (PDF)](https://github.com/daschain-foundation/das-chain/raw/main/docs/DAS_Chain_Whitepaper_v1.1.pdf) | Foundational paper outlining technology, tokenomics, and governance. |
 | [Ecosystem Overview (Coming Soon)]() | Overview of Duckboards & Stilts, DAS Ecosystem, and marketplace integration. |
 | [Governance Framework (Draft)]() | Outlines DAO transition path and voting structure. |
 
